@@ -2,7 +2,7 @@
 
 I'm a <b>researcher</b> and <b>data scientist</b> with an interdisciplinary background in <b>cognitive science</b> and <b>psychology</b>. 
 
-In my academic research, I investigated the cognitive foundations of our social condition by examining how people manage to coordinate and cooperate with each other to achieve shared goals.
+In my academic research, I investigated the cognitive foundations of human social interaction by examining how people manage to coordinate and cooperate with each other to achieve shared goals.
 Keeping with that spirit while transitioning from academia to "the real world", I am highly motivated to apply my analytical and technical skills to innovative projects that 
 generate meaningful impact for the <b>public good</b>, foster <b>social cohesion</b>, and improve <b>coordination</b> and <b>cooperation</b> between <b>citizens</b>, <b>public institutions</b>, and <b>civil society</b>.   
 
